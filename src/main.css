@@ -7,15 +7,13 @@
 html,
 body
 {   
-    background-color: rgb(240, 240, 240);
+    background-color: rgb(59, 59, 59);
     overflow: hidden;
     height: 100vh;
 }
 
-.webgl
-{
-    position: fixed;
-    top: 0;
-    left: 0;
-    outline: none;
+.square {
+    width: 100vmin;
+    height: 100vmin;
+    background-color: lightblue;
 }
